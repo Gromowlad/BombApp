@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-aa27854a8d5a7b481c7881f11b87b2fc369ef3cf.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-ff84af6ddcefb8d5be60f3fe8e68eb3a06a5501e.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-442342d293c5ce83f85bcbcfd2fb189ab6d94cc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bart\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1-ab8413bf7ff43220a521caa2fd51e9fb56018ae8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bart\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0-9334316445d9b7257631e505a6bc10c6926e5b95.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bart\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1-c984e56703c64772a4cc5403fbf9b5ace1e61cea.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-15645f11b6bb6102ff9783f6a47c8bcf5b5e3469.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bart\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0-4f907de9f4a88df7360a11cbfef4e8926610569d.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-7ee9ba11057d222f6449a3751591b143522ac116.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bart\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0-597b25a221a0ca85fee53ca9b198b440d2b70e6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bart\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1-d9b7acae7a29f5defe1d3669c3a6abd03066493c.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-8d57e40e0465cc537e1f9bf2bd2cf1bf3369e748.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-0003a153e47a40f0172355f881c6e20738d8643a.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\BombApp\react-native-sound\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="46de877cd21aafea7b05424f0c4f86630318f9a6">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-39494a124be9cbcbecae7ad0d543d4243b82660b.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-1e0671d6d9af563665c6dd9f61ab6c490e706b90.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bart\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0-fab7f561b63646481dbae849ad882b6be0853cb2.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-19ac746acd7530b3d69a635fe36bdb399592a07f.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0-62fc69bf8975a333d8adac7620d9bbd997b32454.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-3a6d2dd0124d7b86ad2bcee476ceb194a1ce0b75.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.41.2\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5-559486cf12b0969b124794a9e0d96e11e33db47d.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-4e158dc92796aa857a11597a84a998a15f5f1699.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bart\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1-b10f5c21e59298484cee737276a5f3cb6cb79521.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bart\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\library-2.4.0-33996ed00b7965882699bf31cab6203fe4fbec3b.jar" />
+    </item>
+    <item
+        jar="C:\Games\BombApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\classes-672a48fa40830dd97ee59f34143eca6cba946d24.jar" />
+    </item>
+    <item
+        jar="C:\Users\Bart\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="C:\Games\BombApp\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0-b1ad64b7729a2ff78b92a13bcb26834639ccda9e.jar" />
+    </item>
+
+</items>
